@@ -1,2 +1,3 @@
 # Minimum allowed Python package versions. One package>=version rule per line.
 certify>=2026.10.19
+requests>=2.32.0
